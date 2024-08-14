@@ -2,6 +2,10 @@ main {
     min-height: 400px;
 }
 
+h2{
+    text-align: center;
+}
+
 #section-banner {
     min-height: 400px;
 }
@@ -17,4 +21,33 @@ main {
 .example-header-image {
     background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
     background-size: auto;
+}
+
+mat-grid-list {
+    margin: 10px 0px;
+}
+
+mat-grid-tile {
+    padding: 2px;    
+    border-radius: 30px;
+}
+
+mat-card-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+mat-card-actions {
+    color: rgb(150, 21, 21);
+    font-size: 30px;
+}
+
+mat-card img {
+    height: 300px;
+    width: 350px;
+}
+
+mat-card-content {
+    text-align: center;
 }
