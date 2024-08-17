@@ -2,24 +2,33 @@
   "produtos": [
     {
       "id": 1,
-      "produto": "Jogo1",
-      "descrição": "descrição do Jogo1",
+      "produto": "Zelda",
+      "descricao": "A série \"The Legend of Zelda\" é uma franquia icônica da Nintendo. Os jogadores geralmente controlam Link, um herói destinado a salvar o reino de Hyrule e a Princesa Zelda das forças do mal.",
       "foto": "zelda.png",
-      "preço": 340
+      "preco": 340
     },
     {
       "id": 2,
-      "produto": "Jogo2",
-      "descrição": "descrição do Jogo2",
-      "foto": "jogo2.png",
-      "preço": 500
+      "produto": "Mario",
+      "descricao": "A série \"Super Mario\" é uma das mais populares e influentes no mundo dos videogames. A franquia segue as aventuras de Mario, um encanador italiano, e seu irmão Luigi, enquanto tentam resgatar a Princesa Peach do vilão Bowser.",
+      "foto": "jogo2.PNG",
+      "preco": 500
     },
     {
       "id": 3,
-      "produto": "Jogo3",
-      "descrição": "descrição do Jogo3",
+      "produto": "DarkSouls",
+      "descricao": "\"Dark Souls\" é uma série de jogos de RPG de ação desenvolvida pela FromSoftware, conhecida por sua dificuldade elevada e atmosfera sombria. Os jogadores assumem o papel de um personagem em um mundo decadente e sombrio.",
       "foto": "darksouls.png",
-      "preço": 250
-    }
+      "preco": 250
+    },
+    [
+      {
+        "id": 0,
+        "produto": "Jogo Teste",
+        "descricao": "Jogo teste",
+        "foto": "jogo2",
+        "preco": 320
+      }
+    ]
   ]
 }
