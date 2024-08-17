@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo1",
+      "descrição": "descrição do Jogo1",
+      "foto": "zelda.png",
+      "preço": 340
+    },
+    {
+      "id": 2,
+      "produto": "Jogo2",
+      "descrição": "descrição do Jogo2",
+      "foto": "jogo2.png",
+      "preço": 500
+    },
+    {
+      "id": 3,
+      "produto": "Jogo3",
+      "descrição": "descrição do Jogo3",
+      "foto": "darksouls.png",
+      "preço": 250
+    }
+  ]
+}
